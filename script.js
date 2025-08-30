@@ -9,10 +9,6 @@ const imageCollection = [
         cost: 0
     },
     {
-        src: './rooms/boudoir-n.png',
-        cost: 0
-    },
-    {
         src: './rooms/closet-n.png',
         cost: 0
     },
